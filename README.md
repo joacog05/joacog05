@@ -1,9 +1,10 @@
 <div align="center">
   
-# ¡Hola, mundo! Soy Joaquín Gómez 🚀
+<h1 align="center">Joaquín Gómez</h1>
+<h3 align="center" style="color: #8b949e;">Lic. en Ciencias de la Computación</h3>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00A8FF&center=true&vCenter=true&width=600&lines=Lic.+en+Ciencias+de+la+Computaci%C3%B3n+(UBA);Tester+QA+Especializado+en+IA;Implementador+de+Agentes+y+Automatizaciones;Anal%C3%ADtico,+Orientado+a+la+Calidad" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00A8FF&center=true&vCenter=true&width=600&lines=Tester+QA+Especializado+en+IA;Implementador+de+Agentes+y+Automatizaciones;Anal%C3%ADtico,+Orientado+a+la+Calidad" alt="Typing SVG" />
 </a>
 
 <p align="center">
@@ -31,6 +32,7 @@
   <img src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
   <img src="https://img.shields.io/badge/OpenAI_LLMs-412991?style=for-the-badge&logo=openai&logoColor=white" alt="LLMs" />
   <img src="https://img.shields.io/badge/QA_Testing-4CAF50?style=for-the-badge&logo=testinglibrary&logoColor=white" alt="QA" />
+  <img src="https://img.shields.io/badge/AI_Orchestration-FF9900?style=for-the-badge&logo=probot&logoColor=white" alt="Orquestador IA" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </div>
 
