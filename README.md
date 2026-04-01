@@ -4,22 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=28&pause=1000&color=C9D1D9&center=true&vCenter=true&width=800&height=60&lines=Joaquin+Gomez;Computer+Science" alt="Typing SVG" />
 </a>
 
-<p align="center">
-  Estudiante de la Universidad de Buenos Aires (UBA) apasionado por el ecosistema de la Inteligencia Artificial y la calidad del software. Evaluando modelos de lenguaje y orquestando agentes para el futuro.
-</p>
 
-<div align="center">
-  <a href="mailto:gomezjoaquin219@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</div>
-
-<br />
-
-</div>
 
 ##  Stack Tecnológico y Herramientas
 
