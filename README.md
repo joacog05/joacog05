@@ -48,15 +48,8 @@
         <li><b>Implementador de Agentes</b>: Diseño, orquestación e implementación de flujos de trabajo automatizados usando la plataforma n8n.</li>
       </ul>
     </td>
-    <td valign="top" width="40%">
-<pre>
-⠀⠀⠀⠀⠀⠀⠀⠀⣤⣤⡀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⢀⣄⠀⣠⠶⠲⠞⠁⠀⠙⠛⠳⣆⠀⠀⠀⠀⠀
-⠀⡟⠙⠛⠁⣀⣀⢀⡤⢤⠀⠀⠀⠙⢷⣄⠀⠀⠀
-⢠⡷⢄⣠⠊⠀⠀⠁⠀⡀⠑⠒⠈⢳⠀⢻⡆⠀⠀
-⢠⡇⠀⠘⢁⡄⠀⠀⠉⠉⠀⠀⠀⣳⢧⣾⠃⠀⠀
-⢸⡇⠀⠀⠘⠆⠀⠀⢀⠀⠀⠀⠀⠁⢿⡏⠀⠀⠀
-</pre>
+    <td valign="middle" align="center" width="40%">
+      <img src="https://media.giphy.com/media/xUOxfg0ESyhKOv4Vva/giphy.gif" alt="Vault Boy Thumbs Up" width="180" />
     </td>
   </tr>
 </table>
