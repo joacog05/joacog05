@@ -50,18 +50,17 @@
     </td>
     <td valign="top" width="40%">
 <pre>
-      ._________________.
-      | _______________ |
-      | I             I |
-      | I   n8n + AI  I |
-      | I             I |
-      | I_____________I |
-      !_________________!
-         ._[_______]_.
-     .___|___________|___.
-     |::: ____           |
-     |    ~~~~ [CD-ROM]  |
-     !___________________!
+          _.----._
+        .'      _ '.
+       /.-.   .-. | \
+       |o  | |  o|| |
+       \'-'   '-'/  /
+        '.  ___ .' /
+          '----'.-'
+           |  |
+         .-|  |-.
+        /  |  |  \
+       |  /    \  |
 </pre>
     </td>
   </tr>
@@ -72,7 +71,7 @@
 ## 📊 Mis Estadísticas en GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joacog05&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <img src="https://github.readme-stats.vercel.app/api?username=joacog05&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
   <br/>
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=joacog05&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
