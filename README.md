@@ -41,7 +41,7 @@
   <tr>
     <td valign="top" width="60%">
       <b>IALAB</b><br>
-      <i>(actualidad</i>
+      <i></i>
       <br><br>
       <ul>
         <li><b>Tester QA - IA</b>: Evaluación exhaustiva y testeo de funcionalidades en plataformas impulsadas por inteligencia artificial.</li>
