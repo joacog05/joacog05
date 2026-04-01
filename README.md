@@ -1,7 +1,7 @@
 <div align="center">
   
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1000&color=F7F8F8&center=true&vCenter=true&width=800&height=60&lines=Joaquin+Gomez;Computer+Science" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=28&pause=1000&color=C9D1D9&center=true&vCenter=true&width=800&height=60&lines=Joaquin+Gomez;Computer+Science" alt="Typing SVG" />
 </a>
 
 <p align="center">
@@ -50,8 +50,18 @@
     </td>
     <td valign="top" width="40%">
 <pre>
-⠀⠀⠀⠀⠀⠀⠀⠀⣤⣤⡀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⢀⣄⠀⣠⠶⠲⠞⠁⠀⠙⠛⠳⣆⠀⠀⠀⠀⠀
+      ._________________.
+      | _______________ |
+      | I             I |
+      | I   n8n + AI  I |
+      | I             I |
+      | I_____________I |
+      !_________________!
+         ._[_______]_.
+     .___|___________|___.
+     |::: ____           |
+     |    ~~~~ [CD-ROM]  |
+     !___________________!
 </pre>
     </td>
   </tr>
