@@ -4,7 +4,7 @@
 <h3 align="center" style="color: #8b949e;">Lic. en Ciencias de la Computación</h3>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00A8FF&center=true&vCenter=true&width=600&lines=Tester+QA+Especializado+en+IA;Implementador+de+Agentes+y+Automatizaciones;Anal%C3%ADtico,+Orientado+a+la+Calidad" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00A8FF&center=true&vCenter=true&width=600&lines=Joaquin+Gomez;Implementador+de+Agentes+y+Automatizaciones;Anal%C3%ADtico,+Orientado+a+la+Calidad" alt="Typing SVG" />
 </a>
 
 <p align="center">
