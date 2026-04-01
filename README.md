@@ -21,7 +21,7 @@
 
 </div>
 
-## 🛠️ Stack Tecnológico y Herramientas
+##  Stack Tecnológico y Herramientas
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -56,7 +56,7 @@
 
 ---
 
-## 📊 Mis Estadísticas en GitHub
+##  Mis Estadísticas en GitHub
 
 <div align="center">
   <img src="https://github.readme-stats.vercel.app/api?username=joacog05&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
